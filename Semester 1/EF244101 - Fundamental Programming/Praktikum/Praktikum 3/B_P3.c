@@ -1,3 +1,5 @@
+// Write by Shabrina Amalia Safaana
+
 // pola aneh
 #include <stdio.h>
 
