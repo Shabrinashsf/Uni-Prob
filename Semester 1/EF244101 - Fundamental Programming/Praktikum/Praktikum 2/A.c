@@ -1,3 +1,5 @@
+// Write by Shabrina Amalia Safaana
+
 #include <stdio.h>
 // picky eater
 int main()
