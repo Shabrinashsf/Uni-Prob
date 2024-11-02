@@ -1,3 +1,5 @@
+// Write by Shabrina Amalia Safaana
+
 #include <stdio.h>
 
 int fib(int a, int b, int x)
