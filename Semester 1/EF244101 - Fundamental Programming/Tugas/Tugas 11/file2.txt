@@ -1,0 +1,1 @@
+A pointer whose value equals NULL is called a null pointer.

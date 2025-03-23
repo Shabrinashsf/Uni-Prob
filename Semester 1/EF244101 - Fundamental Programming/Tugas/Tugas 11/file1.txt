@@ -1,0 +1,1 @@
+A binary file is a file created by executing a program that stores directly in the file the computer’s internal representation of each file component.
