@@ -1,0 +1,47 @@
+Going left for smaller values.
+Going right for bigger values.
+
+Sequence 1
+7 25 42 40 33 34 39 36
+
+7 -> root node
+25 > 7 -> right
+42 > 25 -> right
+40 < 42 -> left
+33 < 40 -> left
+34 > 33 -> right
+39 > 34 -> right
+36 < 39 -> left
+Valid BST path to search 36.
+
+Sequence 2
+92 22 91 24 89 20 35 36
+
+92 -> root node 
+22 < 92 -> left
+91 > 22 -> X
+91 can’t be in right subtree of 22 under 92
+Karena 91 berada di node kanan dari parent 22, sedangkan 22 berada di node kiri dari root 92, ini kontradiksi jika 91 berada di node kanan, karena harusnya semua yang ada di node kanan harus lebih besar dari root
+Not a valid BST path to search 36.
+
+Sequence 3
+95, 20, 90, 24, 92, 27, 30, 36
+95 -> root node
+20 < 95 -> left
+90 > 20 -> X
+90 can’t be in right subtree of 20 under 95
+Karena 90 berada di node kanan dari parent 20, sedangkan 20 berada di node kiri dari root 95, ini kontradiksi jika 90 berada di node kanan, karena harusnya semua yang ada di node kanan harus lebih besar dari root
+Not a valid BST path to search 36.
+
+Sequence 4
+7, 46, 41, 21, 26, 39, 37, 24, 36
+7 -> root node
+46 > 7 -> right
+41 < 46 -> left
+21 < 41 -> left
+26 > 21 -> right
+39 > 26 -> right
+37 < 39 -> left
+24 < 37 -> left
+36 < 37 -> right
+Valid BST path to search 36.
