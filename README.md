@@ -1,1 +1,1 @@
-# Nothing special bro
+# Nothing special just bunch of college stuff
