@@ -1,2 +1,2 @@
-# ALL IN C
-# WISH ME ALL THE LUCK IN THIS SEMESTER
+## The Data Structure stuff is all written in c and c++
+## The Operating System stuff are using bash and linux ubuntu
