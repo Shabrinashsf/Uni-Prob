@@ -1,2 +1,2 @@
-# ALL IN C
-# WISH ME ALL THE LUCK IN THIS SEMESTER
+## The Fundamental Programming stuff is all written in c
+## The Database System stuff are using MySQL
