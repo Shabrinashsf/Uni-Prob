@@ -6,4 +6,4 @@ s = input()
 if palindrome(s):
     print("Palindrome")
 else:
-    print("Not a palindrome")
+    print("Not palindrome")
