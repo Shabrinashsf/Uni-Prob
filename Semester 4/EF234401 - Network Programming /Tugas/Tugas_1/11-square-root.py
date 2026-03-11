@@ -1,7 +1,7 @@
 n = int(input())
+root = n ** 0.5
 
-test = n ** 0.5
-if n == int(test):
-    print(int(test))
+if root == int(root):
+    print(int(root))
 else:
-    print('Not a perfect square')
+    print("Not a perfect square")
