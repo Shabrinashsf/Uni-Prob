@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Responder
+comment1.params=
+comment1.target=Responder()
+comment2.params=userInput
+comment2.target=java.lang.String\ getResponse(java.lang.String)
+numComments=3

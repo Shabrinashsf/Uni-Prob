@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.target=SalesItemTest
+comment1.params=
+comment1.target=SalesItemTest()
+comment1.text=\r\n\ Konstruktor\:\ otomatis\ dipanggil\ sebelum\ setiap\ test\r\n
+comment10.params=
+comment10.target=void\ testFindCommentByAuthor()
+comment11.params=
+comment11.target=void\ testShowInfo()
+comment2.params=
+comment2.target=void\ testAddCommentValid()
+comment3.params=
+comment3.target=void\ testAddCommentInvalidRating()
+comment4.params=
+comment4.target=void\ testDuplicateAuthor()
+comment5.params=
+comment5.target=void\ testUpvoteAndDownvoteComment()
+comment6.params=
+comment6.target=void\ testFindMostHelpfulComment()
+comment7.params=
+comment7.target=void\ testRemoveComment()
+comment8.params=
+comment8.target=void\ testRemoveCommentInvalidIndex()
+comment9.params=
+comment9.target=void\ testGetNameAndPrice()
+numComments=12

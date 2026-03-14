@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=OFImage
+comment1.params=image
+comment1.target=OFImage(java.awt.image.BufferedImage)
+comment2.params=width\ height
+comment2.target=OFImage(int,\ int)
+comment3.params=x\ y\ col
+comment3.target=void\ setPixel(int,\ int,\ java.awt.Color)
+comment4.params=x\ y
+comment4.target=java.awt.Color\ getPixel(int,\ int)
+comment5.params=
+comment5.target=void\ darker()
+comment6.params=
+comment6.target=void\ lighter()
+comment7.params=
+comment7.target=void\ threshold()
+numComments=8

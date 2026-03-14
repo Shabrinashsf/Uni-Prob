@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=ImageFileManager
+comment1.params=imageFile
+comment1.target=OFImage\ loadImage(java.io.File)
+comment2.params=image\ file
+comment2.target=void\ saveImage(OFImage,\ java.io.File)
+numComments=3

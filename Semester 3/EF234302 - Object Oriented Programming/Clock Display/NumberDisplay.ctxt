@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=NumberDisplay
+comment1.params=limit
+comment1.target=NumberDisplay(int)
+comment2.params=
+comment2.target=void\ increment()
+comment3.params=newValue
+comment3.target=void\ setValue(int)
+comment4.params=
+comment4.target=int\ getValue()
+comment5.params=
+comment5.target=java.lang.String\ getDisplayValue()
+numComments=6

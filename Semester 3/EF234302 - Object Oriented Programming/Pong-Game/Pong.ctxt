@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Pong
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Pong\ here.\r\n\r\n\ @author\ ISS\r\n\ @version\ 25\ Nov\ 2025\r\n
+comment1.params=
+comment1.target=Pong()
+comment2.params=
+comment2.target=void\ start()
+comment3.params=
+comment3.target=void\ update()
+comment4.params=g
+comment4.target=void\ render(java.awt.Graphics2D)
+comment5.params=e
+comment5.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment6.params=args
+comment6.target=void\ main(java.lang.String[])
+comment7.params=e
+comment7.target=void\ keyPressed(java.awt.event.KeyEvent)
+comment8.params=e
+comment8.target=void\ keyReleased(java.awt.event.KeyEvent)
+comment9.params=e
+comment9.target=void\ keyTyped(java.awt.event.KeyEvent)
+numComments=10

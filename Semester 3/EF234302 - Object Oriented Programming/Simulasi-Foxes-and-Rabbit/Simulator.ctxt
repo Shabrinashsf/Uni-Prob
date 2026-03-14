@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Simulator
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Simulator\ here.\r\n\r\n\ @author\ Isabella\ Sienna\ Sulisthio\r\n\ @version\ 11\ Nov\ 2025\r\n
+comment1.params=row\ col
+comment1.target=Simulator(int,\ int)
+comment2.params=maxSteps
+comment2.target=void\ simulate(int)
+comment3.params=
+comment3.target=void\ reset()
+comment4.params=
+comment4.target=void\ simulateOneStep()
+comment5.params=
+comment5.target=void\ populate()
+comment6.params=args
+comment6.target=void\ main(java.lang.String[])
+numComments=7

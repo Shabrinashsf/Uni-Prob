@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Mahasiswa
+comment1.params=nama\ nrp
+comment1.target=Mahasiswa(java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getNama()
+comment3.params=
+comment3.target=java.lang.String\ getNrp()
+numComments=4

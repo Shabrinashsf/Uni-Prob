@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=App
+comment1.params=
+comment1.target=App()
+comment2.params=text\ bgColor\ fgColor
+comment2.target=javax.swing.JButton\ createDifficultyButton(java.lang.String,\ java.awt.Color,\ java.awt.Color)
+comment2.text=\r\n\ Metode\ pembantu\ untuk\ membuat\ JButton\ dengan\ gaya\ kustom\r\n
+comment3.params=choice
+comment3.target=void\ startGame(int)
+comment3.text=\r\n\ Metode\ untuk\ memulai\ game\ sesuai\ pilihan\ dan\ memanggil\ class\ level\ yang\ sesuai\r\n
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+numComments=5

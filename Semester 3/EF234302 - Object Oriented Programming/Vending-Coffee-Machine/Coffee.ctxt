@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Coffee
+comment1.params=
+comment1.target=Coffee()
+comment2.params=
+comment2.target=void\ start()
+comment3.params=
+comment3.target=void\ beliKopi()
+comment4.params=
+comment4.target=void\ refillAdmin()
+comment5.params=
+comment5.target=void\ lihatLog()
+numComments=6

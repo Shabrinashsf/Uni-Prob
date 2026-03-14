@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Mobil
+comment1.params=merk\ model\ tahunProduksi\ jumlahRoda
+comment1.target=Mobil(java.lang.String,\ java.lang.String,\ int,\ int)
+comment2.params=
+comment2.target=java.lang.String\ tampilInfo()
+numComments=3

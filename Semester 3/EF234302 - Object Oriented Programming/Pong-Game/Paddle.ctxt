@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Paddle
+comment1.params=g
+comment1.target=void\ render(java.awt.Graphics)
+comment2.params=up
+comment2.target=void\ move(boolean)
+numComments=3

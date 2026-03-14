@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Dosen
+comment1.params=nama\ nip
+comment1.target=Dosen(java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getNama()
+comment3.params=
+comment3.target=java.lang.String\ getNip()
+numComments=4

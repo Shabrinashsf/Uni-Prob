@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=ClockGUI
+comment1.params=
+comment1.target=ClockGUI()
+comment2.params=
+comment2.target=void\ startClock()
+comment3.params=e
+comment3.target=void\ actionPerformed(java.awt.event.ActionEvent)
+numComments=4

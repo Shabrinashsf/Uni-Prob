@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=LoginController
+comment1.params=username\ password
+comment1.target=boolean\ checkLogin(java.lang.String,\ java.lang.String)
+numComments=2
